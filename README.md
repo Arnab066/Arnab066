@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 I’m currently working on improving my **DSA problem-solving skills** and building real-world projects  <br>- 🤝 I’m looking to collaborate on **web development and impactful tech projects**  <br>- 🆘 I’m looking for help with **advanced DSA & system design concepts**  <br>- 🌱 I’m currently learning **Data Structures, Algorithms, and Backend Development**  <br>- 💬 Ask me about **Java, DSA strategies, and beginner web development**  <br>- ⚡ Fun fact: I enjoy solving problems that make my brain hurt 😄
+#  About Me:
+##  About Me<br><br>-  I’m currently working on improving my **DSA problem-solving skills** and building real-world projects  <br>-  I’m looking to collaborate on **web development and impactful tech projects**  <br>-  I’m looking for help with **advanced DSA & system design concepts**  <br>-  I’m currently learning **Data Structures, Algorithms, and Backend Development**  <br>-  Ask me about **Java, DSA strategies, and beginner web development**  <br>-  Fun fact: I enjoy solving problems that make my brain hurt 
 
 
 
